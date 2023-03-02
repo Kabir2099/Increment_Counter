@@ -1,2 +1,2 @@
 # Increment_Counter
-Increment Counter project using html css and JavaScript
+Increment Counter project using HTML CSS and JavaScript
